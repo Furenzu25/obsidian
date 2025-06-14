@@ -19,7 +19,7 @@ Annotate your configuration class with:
 
 `java`
 
-`@Configuration @EnableAspectJAutoProxy public class ProjectConfig {     // Configuration code here }`
+	`@Configuration @EnableAspectJAutoProxy public class ProjectConfig {     // Configuration code here }`
 
 This enables proxy-based AOP in your Spring application.
 
