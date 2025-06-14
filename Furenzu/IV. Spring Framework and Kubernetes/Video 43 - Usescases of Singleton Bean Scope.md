@@ -71,11 +71,9 @@ Avoid singleton beans if:
 ### 💥 Example of What _Not_ to Do
 
 Imagine a bean with:
-
-java
-
-CopyEdit
-
+	
+	`java`
+	
 `String name; int age;`
 
 If any logic in the application updates these values, **this bean is mutable** — and using it as a singleton will create bugs and inconsistencies when accessed by multiple threads. ❌

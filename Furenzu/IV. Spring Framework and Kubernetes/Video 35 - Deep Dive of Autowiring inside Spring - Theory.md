@@ -27,9 +27,7 @@ Let’s say your context contains:
 
 If Spring sees a constructor like this:
 
-java
-
-CopyEdit
+`java`
 
 `public Person(Vehicle vehicle) { ... }`
 
@@ -43,9 +41,7 @@ It’s not sure **which vehicle bean to inject**. Here’s how Spring resolves t
 
 Spring will **first check if the constructor parameter name** matches a bean name in the context.
 
-java
-
-CopyEdit
+`java`
 
 `public Person(Vehicle vehicleOne) { ... }`
 
@@ -66,17 +62,13 @@ If there’s **no matching parameter name**, Spring moves to the next rule:
 
 > 🔎 Look for a bean annotated with `@Primary`.
 
-java
-
-CopyEdit
+`java`
 
 `@Bean @Primary public Vehicle vehicleThree() { ... }`
 
 - Even if the constructor is just:
     
-    java
-    
-    CopyEdit
+    `java`
     
     `public Person(Vehicle vehicle) { ... }`
     
@@ -89,9 +81,7 @@ CopyEdit
 
 If no `@Primary` is found or more control is needed, use `@Qualifier`.
 
-java
-
-CopyEdit
+`java`
 
 `public Person(@Qualifier("vehicleTwo") Vehicle vehicle) { ... }`
 

@@ -92,9 +92,7 @@ Without explicitly telling Spring how these layers depend on each other, the **b
 
 The `Person` class has a dependency on `Vehicle` — meaning each person uses a vehicle.
 
-java
-
-CopyEdit
+`java`
 
 `class Person {     String name;     Vehicle vehicle;  // Dependency }`
 

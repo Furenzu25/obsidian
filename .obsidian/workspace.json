@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "eeb1bcd6095299fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3044be2d6df16496",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f937a009bfa3c0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Furenzu/IV. Spring Framework and Kubernetes/Video 55 - Configuring Advices inside AOP - Theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Video 55 - Configuring Advices inside AOP - Theory"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a56b8ae77cc892a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b04ca0960de26933",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e6eb8c95e6d8a6a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b8a7258383de7934",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5f8c7d06c41ebe07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "06be3f8a182afead",
+    "type": "split",
+    "children": [
+      {
+        "id": "13b78738c3582fcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efdf27435c3d9e48",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Furenzu/IV. Spring Framework and Kubernetes/Video 55 - Configuring Advices inside AOP - Theory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Video 55 - Configuring Advices inside AOP - Theory"
+            }
+          },
+          {
+            "id": "a40f4a785b45e4d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Furenzu/IV. Spring Framework and Kubernetes/Video 55 - Configuring Advices inside AOP - Theory.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Video 55 - Configuring Advices inside AOP - Theory"
+            }
+          },
+          {
+            "id": "a4b865ea173a4aa2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dd693f36f6bf7b97",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Furenzu/IV. Spring Framework and Kubernetes/Video 55 - Configuring Advices inside AOP - Theory.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Video 55 - Configuring Advices inside AOP - Theory"
+            }
+          },
+          {
+            "id": "7bc1038b403f7bd9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7bc1038b403f7bd9",
+  "lastOpenFiles": [
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 54 - Type of Advices inside AOP.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 52 - AOP Jargons.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 55 - Configuring Advices inside AOP - Theory.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 49 - Introduction to Aspect Oriented Programming(AOP).md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 48 - Singleton Beans Vs Prototype Beans.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 47 - Deepdrive of Prototype Bean Scope.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 46 - Eager Initialization vs Lazy Initialization.md",
+    "Furenzu/II. PostgreSQL Notes/Section 3 - First Steps/3.2 The main PSQL commands.md",
+    "Furenzu/II. PostgreSQL Notes/Section 3 - First Steps/3.1 Introduction to the PSQL command.md",
+    "Furenzu/III. Exam notes/Slide 1 & 2 Overview & review of object oriented programming.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 43 - Usescases of Singleton Bean Scope.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 44 - Deepdive of Eager and Lazy Instantiation of Singleton scope.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 42 - What is a Race Condition.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 40 - Introduction to Bean Scopes inside Spring.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 35 - Deep Dive of Autowiring inside Spring - Theory.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 29 - Introduction to wiring & auto-wiring inside Spring.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 28 - Introduction to Spring Projects part 2.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 26 - Why we should use Frameworks.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 27 - Introduction to Spring Projects part 1.md",
+    "Untitled.md",
+    "Untitled 7.md",
+    "Untitled 6.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Untitled 2.md"
+  ]
+}

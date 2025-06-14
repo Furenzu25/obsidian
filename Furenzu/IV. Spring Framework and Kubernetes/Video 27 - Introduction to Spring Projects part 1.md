@@ -278,25 +278,25 @@ These two worlds don't naturally “talk” to each other. ORM bridges the gap.
 
 Imagine you have this Java class:
 	
-	java
+	`java`
 	
 `public class Student {     private int id;     private String name;     private String email; }`
 
 And you want to save it to this SQL table:
 	
-	sql
+	`sql`
 	
 `CREATE TABLE students (     id INT PRIMARY KEY,     name VARCHAR(255),     email VARCHAR(255) );`
 
 With ORM, instead of manually writing SQL like:
 	
-	sql
+	`sql`
 	
 `INSERT INTO students (id, name, email) VALUES (1, 'John', 'john@email.com');`
 
 You just do:
 	
-	java
+	`java`
 	
 `entityManager.persist(student);`
 
@@ -349,9 +349,9 @@ Hibernate provides:
 
 You use Hibernate to write code like this:
 	
-	java
+	`java`
 	
-`@Entity public class Student {     @Id     private int id;     private String name;     private String email; }`
+	`@Entity public class Student {     @Id     private int id;     private String name;     private String email; }`
 
 And Hibernate maps this to a SQL table, handles saving and fetching data.
 
@@ -620,13 +620,13 @@ OAuth2 works like that. It gives a **token** (valet ticket) to the client app, w
 
 A JWT has 3 parts:
 	
-	pgsql
+	`pgsql`
 	
 `xxxxx.yyyyy.zzzzz |     |     | |     |     └── Signature (to verify it’s not tampered) |     └── Payload (your user data or claims) └── Header (type of token, algorithm used)`
 
 Example:
 	
-	json
+	`json`
 	
 `Header:   { "alg": "HS256", "typ": "JWT" } Payload:  { "sub": "1234567890", "role": "admin", "exp": 1716762622 }`
 
