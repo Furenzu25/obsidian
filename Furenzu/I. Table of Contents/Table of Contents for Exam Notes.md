@@ -1,0 +1,10 @@
+Exam Notes:
+[[III. Exam notes/Slide 1 & 2 Overview & review of object oriented programming|Slide 1 & 2 Overview & review of object oriented programming]]
+[[III. Exam notes/Slide 3 Coding Smells|Slide 3 Coding Smells]]
+[[III. Exam notes/Slide 4 Object Orient Design Principles|Slide 4 Object Orient Design Principles]]
+[[III. Exam notes/Slide 5 Java Coding Practices|Slide 5 Java Coding Practices]]
+[[III. Exam notes/Slide 6 Introduction to Unit Testing using JUnit|Slide 6 Introduction to Unit Testing using JUnit]]
+[[III. Exam notes/Slide 7 Introduction to Test-Driven Development|Slide 7 Introduction to Test-Driven Development]]
+[[III. Exam notes/Slide 8 Risk-Based Testing|Slide 8 Risk-Based Testing]]
+[[III. Exam notes/Slide 9 What is Domain Model & Machine Problem|Slide 9 What is Domain Model & Machine Problem]]
+[[III. Exam notes/Slide 10 PostgreSQL Administration, Data Types, Functions|Slide 10 PostgreSQL Administration, Data Types, Functions]]

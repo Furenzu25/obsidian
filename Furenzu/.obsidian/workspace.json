@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "e7cfbf77645e25d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0cd75209345680e",
+        "type": "tabs",
+        "dimension": 83.94863563402889,
+        "children": [
+          {
+            "id": "836969c39ce32200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IV. Spring Framework and Kubernetes/Video 44 - Deepdive of Eager and Lazy Instantiation of Singleton scope.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Video 44 - Deepdive of Eager and Lazy Instantiation of Singleton scope"
+            }
+          }
+        ]
+      },
+      {
+        "id": "236119c70118cef6",
+        "type": "tabs",
+        "dimension": 16.051364365971107,
+        "children": [
+          {
+            "id": "af7d8d2a7d9a4fe8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025-06-14.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-06-14"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4da7026ec402818c",
+    "type": "split",
+    "children": [
+      {
+        "id": "72e1e071eea93116",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01f2b19430f3534b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ce2551fd92321911",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0ee06068ca7b26c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5
+  },
+  "right": {
+    "id": "29694d58f1a0ead7",
+    "type": "split",
+    "children": [
+      {
+        "id": "559ba52bbc2e2518",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cfc75d0414196b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "528f89c6808e9a2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "58a3f1afda6ffadb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "be0d15679432d6ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "01f2b19430f3534b",
+  "lastOpenFiles": [
+    "IV. Spring Framework and Kubernetes/Video 44 - Deepdive of Eager and Lazy Instantiation of Singleton scope.md",
+    "2025-06-14.md",
+    "IV. Spring Framework and Kubernetes/Video 43 - Usescases of Singleton Bean Scope.md",
+    "IV. Spring Framework and Kubernetes/Video 40 - Introduction to Bean Scopes inside Spring.md",
+    "IV. Spring Framework and Kubernetes/Video 42 - What is a Race Condition.md",
+    "Untitled.md",
+    "IV. Spring Framework and Kubernetes/Video 35 - Deep Dive of Autowiring inside Spring - Theory.md",
+    "III. Exam notes/Slide 3 Coding Smells.md",
+    "III. Exam notes/Slide 1 & 2 Overview & review of object oriented programming.md",
+    "III. Exam notes/Slide 10 PostgreSQL Administration, Data Types, Functions.md",
+    "III. Exam notes/Slide 5 Java Coding Practices.md",
+    "III. Exam notes/Slide 6 Introduction to Unit Testing using JUnit.md",
+    "IV. Spring Framework and Kubernetes/Video 29 - Introduction to wiring & auto-wiring inside Spring.md",
+    "IV. Spring Framework and Kubernetes/Video 28 - Introduction to Spring Projects part 2.md",
+    "IV. Spring Framework and Kubernetes/Video 27 - Introduction to Spring Projects part 1.md",
+    "I. Table of Contents/Table of Contents for Spring Framework and Kubernetes.md",
+    "IV. Spring Framework and Kubernetes/Video 26 - Why we should use Frameworks.md",
+    "I. Table of Contents/Table of Contents for Exam Notes.md",
+    "I. Table of Contents/Table of Contents For PostgreSQL.md",
+    "I. Table of Contents",
+    "IV. Spring Framework and Kubernetes",
+    "2025-06-12.md",
+    "II. PostgreSQL Notes/Section 23 - Load Balance with HAProxy and Patroni/23.1 Presentation of the HA scenario.md",
+    "II. PostgreSQL Notes/Section 23 - Load Balance with HAProxy and Patroni/23.2 Initial database configurations.md",
+    "II. PostgreSQL Notes/Section 24 - Advanced SQL Commands/24.1 Dealing with GROUPING SETS.md",
+    "II. PostgreSQL Notes/Section 25 - HA com Citus Patroni e HAProxy/25.1 Introduction to Citus.md",
+    "III. Exam notes/Slide 9 What is Domain Model & Machine Problem.md",
+    "III. Exam notes/Slide 8 Risk-Based Testing.md",
+    "III. Exam notes",
+    "II. PostgreSQL Notes/Section 27 - Monitoring",
+    "II. PostgreSQL Notes/Section 26 - Extensions",
+    "II. PostgreSQL Notes/Section 25 - HA com Citus Patroni e HAProxy",
+    "II. PostgreSQL Notes/Section 24 - Advanced SQL Commands",
+    "II. PostgreSQL Notes/Section 23 - Load Balance with HAProxy and Patroni",
+    "II. PostgreSQL Notes/Section 22 - Load Balance with HAProxy e PgBouncer",
+    "II. PostgreSQL Notes/Section 21 - Stored Procedures",
+    "PostgreSQL Notes/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}
