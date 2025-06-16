@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "069e106888c5c809",
+        "id": "8eaf3a9d56ad38e5",
         "type": "tabs",
         "children": [
           {
-            "id": "7a17177524717ddb",
+            "id": "05dc9997d8ab8ad0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Furenzu/IV. Spring Framework and Kubernetes/Video 129 - Setup H2 Database inside a Spring Boot Web Application.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Video 129 - Setup H2 Database inside a Spring Boot Web Application"
+              "title": "New tab"
             }
           }
         ]
@@ -179,34 +175,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a17177524717ddb",
+  "active": "05dc9997d8ab8ad0",
   "lastOpenFiles": [
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 128 - Introduction to in-memory H2 Database of Spring Boot.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Untitled.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 2.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 3.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 4.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 1.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 144 - Introduction to Spring Data.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 143 - Problems with Spring JDBC & how ORM frameworks solve these problems.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 138 - Display List of Hildays From H2 Database using JDBCTemplate Summary.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 6.md",
+    "Furenzu/III. Exam notes/Slide 9 What is Domain Model & Machine Problem.md",
+    "Furenzu/III. Exam notes/Slide 8 Risk-Based Testing.md",
+    "Furenzu/III. Exam notes/Slide 7 Introduction to Test-Driven Development.md",
+    "Furenzu/III. Exam notes/Slide 6 Introduction to Unit Testing using JUnit.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 132 - Deepdive on usage of JDBC Template.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 130 - Introduction to JDBC & Problems with it.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 131 - Introduction to Spring JDBC.md",
     "Furenzu/IV. Spring Framework and Kubernetes/Video 126 - Solution for CSRF Attack - Theory.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 128 - Introduction to in-memory H2 Database of Spring Boot.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 129 - Setup H2 Database inside a Spring Boot Web Application.md",
     "Furenzu/IV. Spring Framework and Kubernetes/Video 125 - Deep dive of CSRF Attack.md",
     "Furenzu/IV. Spring Framework and Kubernetes/Video 123 - Introduction to @ControllerAdvice & @ExceptionHandler annotations.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 7.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 6.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 5.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 4.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 129 - Setup H2 Database inside a Spring Boot Web Application.md",
     "Furenzu/IV. Spring Framework and Kubernetes/Video 109 - Deepdive of Authentication vs Authorization.md",
     "Furenzu/IV. Spring Framework and Kubernetes/Video 108 - Introduction to Spring Security.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 11.md",
     "Furenzu/IV. Spring Framework and Kubernetes/Video 103 - Introduction to Spring Web Scope.md",
     "Furenzu/IV. Spring Framework and Kubernetes/Video 104 - Demo of @RequestScope inside Eazy School Web Application.md",
     "Furenzu/IV. Spring Framework and Kubernetes/Video 99 - Introduction to Java Bean Validations.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 96 - Accepting Path Params using @PathVariable annotation - Theory.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 94 - Accepting Query Params using @Request Param annotation - Theory.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 91 - Introduction to Lombok Library.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 81 - Deep Dive of Spring MVC Internal Architecture.md",
-    "Pasted image 20250615220402.png",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 77 - Introduction to Spring Boot DevTools.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 74 - Introduction to Thymeleaf.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 72 - Quick Recap of Section 6.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 66 - Spring Boot Important Features.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 65 - Introduction to Spring Boot - The Hero of Spring Framework.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 64 - Types of Web Apps we can build with Spring.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 63 - Evolution of Web Apps inside Java ecosystem.md"
+    "Pasted image 20250615220402.png"
   ]
 }

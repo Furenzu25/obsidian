@@ -21,10 +21,8 @@ We are working with a new Spring Boot Maven project named `example_32` where we:
 
 In `pom.xml`, add:
 
-xml
-
-Copy code
-
+	xml
+	
 `<dependency>   <groupId>com.h2database</groupId>   <artifactId>h2</artifactId>   <scope>runtime</scope> <!-- Optional but recommended --> </dependency>`
 
 > ✅ The `runtime` scope tells Spring Boot that this dependency is needed **only at runtime**, not during compilation.
@@ -62,8 +60,6 @@ Set connection and console options for H2:
 
 properties
 
-Copy code
-
 `# JDBC config spring.datasource.url=jdbc:h2:mem:eazyschooldb spring.datasource.driver-class-name=org.h2.Driver spring.datasource.username=sa spring.datasource.password=  # Hibernate spring.jpa.database-platform=org.hibernate.dialect.H2Dialect spring.jpa.hibernate.ddl-auto=update spring.jpa.show-sql=true  # Enable H2 console spring.h2.console.enabled=true spring.h2.console.path=/h2-console`
 
 > 💡 `ddl-auto=update`: Prevents Hibernate from dropping existing tables — but not really relevant for H2 as it resets on each run.
@@ -79,9 +75,7 @@ Copy code
 - Spring Boot auto-configures H2 & logs:
     
     css
-    
-    Copy code
-    
+
     `H2 console available at /h2-console`
     
 
@@ -110,8 +104,6 @@ In `ProjectSecurityConfig.java`, add:
 
 java
 
-Copy code
-
 `http.authorizeHttpRequests(auth ->      auth         .requestMatchers(PathRequest.toH2Console()).permitAll() );`
 
 > 🚫 Do **not** hardcode the H2 path. Use `PathRequest.toH2Console()` instead.
@@ -122,8 +114,6 @@ Still in `ProjectSecurityConfig.java`:
 
 java
 
-Copy code
-
 `http.csrf(csrf ->      csrf.ignoringRequestMatchers(PathRequest.toH2Console()) );`
 
 ### ✔️ Allow Frames (H2 Console uses `<frame>` tags)
@@ -131,8 +121,6 @@ Copy code
 Also add:
 
 java
-
-Copy code
 
 `http.headers(headers ->      headers.frameOptions().disable() );`
 
@@ -150,8 +138,6 @@ Copy code
     
 
 sql
-
-Copy code
 
 `SELECT * FROM contact_msg;`
 
