@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8eaf3a9d56ad38e5",
+        "id": "d672a2655951340f",
         "type": "tabs",
         "children": [
           {
-            "id": "05dc9997d8ab8ad0",
+            "id": "b2c7207f787d9b4d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Furenzu/IV. Spring Framework and Kubernetes/Video 145 - Deepdive on Repository, CrudRepository,  PagingandSortingRepository,JpaResitory.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Video 145 - Deepdive on Repository, CrudRepository,  PagingandSortingRepository,JpaResitory"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 438.5
   },
   "right": {
     "id": "06be3f8a182afead",
@@ -175,14 +179,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05dc9997d8ab8ad0",
+  "active": "b2c7207f787d9b4d",
   "lastOpenFiles": [
-    "Furenzu/IV. Spring Framework and Kubernetes/Untitled.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 2.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 3.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 4.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 1.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 146 - Introduction to Spring Data JPA.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 151 - Deep dive on derived query methods inside Spring Data JPA.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 152 - Introduction of Auditing Support by Spring Data JPA.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 145 - Deepdive on Repository, CrudRepository,  PagingandSortingRepository,JpaResitory.md",
     "Furenzu/IV. Spring Framework and Kubernetes/Video 144 - Introduction to Spring Data.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 131 - Introduction to Spring JDBC.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 1.md",
     "Furenzu/IV. Spring Framework and Kubernetes/Video 143 - Problems with Spring JDBC & how ORM frameworks solve these problems.md",
     "Furenzu/IV. Spring Framework and Kubernetes/Video 138 - Display List of Hildays From H2 Database using JDBCTemplate Summary.md",
     "Furenzu/IV. Spring Framework and Kubernetes/Untitled 6.md",
@@ -192,7 +197,6 @@
     "Furenzu/III. Exam notes/Slide 6 Introduction to Unit Testing using JUnit.md",
     "Furenzu/IV. Spring Framework and Kubernetes/Video 132 - Deepdive on usage of JDBC Template.md",
     "Furenzu/IV. Spring Framework and Kubernetes/Video 130 - Introduction to JDBC & Problems with it.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 131 - Introduction to Spring JDBC.md",
     "Furenzu/IV. Spring Framework and Kubernetes/Video 126 - Solution for CSRF Attack - Theory.md",
     "Furenzu/IV. Spring Framework and Kubernetes/Video 128 - Introduction to in-memory H2 Database of Spring Boot.md",
     "Furenzu/IV. Spring Framework and Kubernetes/Video 129 - Setup H2 Database inside a Spring Boot Web Application.md",
