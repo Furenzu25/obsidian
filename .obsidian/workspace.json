@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "632610784f5eeb4e",
+            "id": "7a17177524717ddb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Furenzu/IV. Spring Framework and Kubernetes/Video 72 - Quick Recap of Section 6.md",
+                "file": "Furenzu/IV. Spring Framework and Kubernetes/Video 129 - Setup H2 Database inside a Spring Boot Web Application.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Video 72 - Quick Recap of Section 6"
+              "title": "Video 129 - Setup H2 Database inside a Spring Boot Web Application"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Furenzu/IV. Spring Framework and Kubernetes/Video 54 - Type of Advices inside AOP.md",
+                "file": "Furenzu/IV. Spring Framework and Kubernetes/Video 123 - Introduction to @ControllerAdvice & @ExceptionHandler annotations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Video 54 - Type of Advices inside AOP"
+              "title": "Outline of Video 123 - Introduction to @ControllerAdvice & @ExceptionHandler annotations"
             }
           },
           {
@@ -179,33 +179,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "632610784f5eeb4e",
+  "active": "7a17177524717ddb",
   "lastOpenFiles": [
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 66 - Spring Boot Important Features.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 128 - Introduction to in-memory H2 Database of Spring Boot.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 126 - Solution for CSRF Attack - Theory.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 125 - Deep dive of CSRF Attack.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 123 - Introduction to @ControllerAdvice & @ExceptionHandler annotations.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 7.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 6.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 5.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 4.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 129 - Setup H2 Database inside a Spring Boot Web Application.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 109 - Deepdive of Authentication vs Authorization.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 108 - Introduction to Spring Security.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 11.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 103 - Introduction to Spring Web Scope.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 104 - Demo of @RequestScope inside Eazy School Web Application.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 99 - Introduction to Java Bean Validations.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 96 - Accepting Path Params using @PathVariable annotation - Theory.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 94 - Accepting Query Params using @Request Param annotation - Theory.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 91 - Introduction to Lombok Library.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 81 - Deep Dive of Spring MVC Internal Architecture.md",
+    "Pasted image 20250615220402.png",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 77 - Introduction to Spring Boot DevTools.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 74 - Introduction to Thymeleaf.md",
     "Furenzu/IV. Spring Framework and Kubernetes/Video 72 - Quick Recap of Section 6.md",
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 66 - Spring Boot Important Features.md",
     "Furenzu/IV. Spring Framework and Kubernetes/Video 65 - Introduction to Spring Boot - The Hero of Spring Framework.md",
     "Furenzu/IV. Spring Framework and Kubernetes/Video 64 - Types of Web Apps we can build with Spring.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 63 - Evolution of Web Apps inside Java ecosystem.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 62 - Role of Servlets inside Web Applications.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 61 - Quick Introduction about Web Applications.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 3.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 4.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 5.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 6.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 7.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 8.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 9.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 10.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 11.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 12.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Untitled 13.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 60 - Demo of Configuring Advices inside AOP with Annotations approach.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 59 - Configuring Advices inside AOP with Annotation approach.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 54 - Type of Advices inside AOP.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 55 - Configuring Advices inside AOP - Theory.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 52 - AOP Jargons.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 49 - Introduction to Aspect Oriented Programming(AOP).md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 48 - Singleton Beans Vs Prototype Beans.md",
-    "Furenzu/IV. Spring Framework and Kubernetes/Video 47 - Deepdrive of Prototype Bean Scope.md"
+    "Furenzu/IV. Spring Framework and Kubernetes/Video 63 - Evolution of Web Apps inside Java ecosystem.md"
   ]
 }
